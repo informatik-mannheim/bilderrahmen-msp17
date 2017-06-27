@@ -17,3 +17,23 @@ The system consists of the following sub projects. To successfully run it, it is
 ## Tests
 
 You can find the tests written for the backend and frontend in the corresponding repositories.
+
+## Contributors
+
+The following individuals contributed to the success of the project:
+
+- Attila Almasi
+- Sebastian Aurin
+- Sebastian Haid
+- Felix Hefner
+- Max Jando 
+- Alexander Kononenko
+- Dennis Maier
+- Marc Misoch
+- Philip Quintus
+- Sabrina Sachs
+- Alexander Schlosser
+- Hanna Schumacher
+- Cem Tekinbas
+- Joshua Vécsei
+- Cristin Volz
