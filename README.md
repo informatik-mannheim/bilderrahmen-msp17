@@ -16,7 +16,7 @@ The system consists of the following sub projects. To successfully run it, it is
 
 ## Tests
 
-The frondend-tests written for this application can be found [in this repo](https://github.com/informatik-mannheim/MSP17-bilderrahmen-frontendtests).
+The tests for the frontend of this application can be found [in this repo](https://github.com/informatik-mannheim/MSP17-bilderrahmen-frontendtests).
 
 ## Contributors
 
